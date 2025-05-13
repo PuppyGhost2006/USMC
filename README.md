@@ -1,0 +1,1 @@
+This is an open-source mod for ArmA 3. You’re free to use, modify, or share it, but you must credit me (Dihela Thewjan/Pup) somewhere in your project. Do not reupload it as your own. For bugs or questions, dm on discord puppy2006
