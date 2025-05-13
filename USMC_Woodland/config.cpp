@@ -814,6 +814,7 @@ class cfgVehicles
 		    "Head_NATO",
 			"G_USMC"
 		};
+                /////Machine gun dude
 		displayName="Autorifleman";
 		uniformClass="PUP_U_CombatUniform_tshirt_F";
 		weapons[]=
